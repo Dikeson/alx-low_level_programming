@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
+*main - prints the alphabet in lowercase
 *
 *Return: 0 if success
 **/
